@@ -164,7 +164,9 @@ When designed this way, presence becomes trustworthy instead of brittle.
 
 ## Related docs
 
-- Docs: https://www.joegalaxy.net/docs  
-- **Online vs Offline Presence** — lifecycle-aware model  
-- **Presence with Socket.IO** — transport edge cases  
-- **WebRTC Presence** — readiness before calls
+- [Docs index](./index.md)
+- [Online vs Offline Presence](./presence-online-offline.md)
+- [Who’s Online API](./whos-online-api.md)
+- [Presence with Socket.IO](./presence-socket-io.md)
+- [WebRTC Presence](./webrtc-presence.md)
+
