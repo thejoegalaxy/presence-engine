@@ -193,7 +193,9 @@ A session-first, lifecycle-aware, TTL-derived model produces presence you can tr
 
 ## Related docs
 
-- Docs: https://www.joegalaxy.net/docs  
-- **Online vs Offline Presence** — lifecycle-aware model  
-- **Who’s Online API** — sessions vs users  
-- **WebRTC Presence** — readiness before calls
+- [Docs index](./index.md)
+- [Online vs Offline Presence](./presence-online-offline.md)
+- [Who’s Online API](./whos-online-api.md)
+- [Presence with Socket.IO](./presence-socket-io.md)
+- [WebRTC Presence](./webrtc-presence.md)
+
