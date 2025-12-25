@@ -160,6 +160,10 @@ It exposes presence as a signal you can shape.
 
 ---
 
+**Live demo:** https://www.joegalaxy.net/presence-demo
+
+---
+
 ## License
 
 All rights reserved.
