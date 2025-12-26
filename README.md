@@ -160,7 +160,8 @@ It exposes presence as a signal you can shape.
 
 ---
 
-**Live demo:** https://www.joegalaxy.net/presence-demo
+**Live presence demo:** https://www.joegalaxy.net/presence-demo  
+**SDK integration demo:** https://presence-sdk-demo.joegalaxy.net/
 
 ---
 
